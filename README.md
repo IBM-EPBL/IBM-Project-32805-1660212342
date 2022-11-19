@@ -9,3 +9,8 @@
  Registers by giving the details.
  Integrate the application with news APIs and store the data in the database.
  The database will have all the details and the user can search the news by using a search bar.**
+---
+## [KISHORE S](https://github.com/IBM-EPBL/IBM-Project-32805-1660212342/tree/main/Assignments/Team%20Member%20-%20Kishore%20S)
+## [VINOTH M]()
+## [GOPINATH N]()
+## [VIRENDRA SEHWAG G]()
